@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "650429447373",
+    "firebase_url": "https://flashchatandroid-shepard.firebaseio.com",
+    "project_id": "flashchatandroid-shepard",
+    "storage_bucket": "flashchatandroid-shepard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650429447373:android:c358d3df3e134c9e",
+        "android_client_info": {
+          "package_name": "com.shepardsateek.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650429447373-g1cstseeojehqo2du73l14pdddekvfcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAst9pwea472U9vjCJNWVuP9QbCxmGxbZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
